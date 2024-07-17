@@ -14,6 +14,7 @@ module.exports = {
         'slate-500':'#64748b',
         'blue-600':'#2563eb',
         'slate-400':'#9ca3af',
+        'violet-700':'#6d28d9',
     }
   },
 },
