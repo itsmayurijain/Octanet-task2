@@ -15,6 +15,7 @@ module.exports = {
         'blue-600':'#2563eb',
         'slate-400':'#9ca3af',
         'violet-700':'#6d28d9',
+        'gray-200':'#d4d4d8',
     }
   },
 },
